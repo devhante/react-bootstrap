@@ -1,0 +1,12 @@
+.space {
+    height: 40px;
+}
+
+.row {
+    margin: 8px;
+}
+
+.row > div {
+    border: 1px solid teal;
+    background-color: palegreen;
+}
